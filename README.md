@@ -4,7 +4,7 @@
    - Microsoft Visual Studio IDE
 
 # Short Description:
-   - Dynamic text rendering using one or more font textures
+   - Dynamic text rendering using one or more textured fonts
 
 
 # Key Features:
