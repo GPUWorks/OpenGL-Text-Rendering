@@ -1,0 +1,47 @@
+Text Rendering
+
+--------------------------------------------------------------------------
+Key Features:
+
+(on num lock active)
+
+	1)	W 			-> camera frontward
+	2)	S			-> camera backward
+	3)	A			-> camera leftward
+	4)	D			-> camera rightward
+	5)	E			-> camera downward
+	6)	Q			-> camera upward
+
+	7)	<-			-> camera rotate left
+	8)	->			-> camera rotate right
+	9)	arrow up		-> camera rotate up
+	10)	arrouw down		-> camera rotate down
+
+	13)	ENTER			-> activate/deactivate editing
+	14)	BACKSPACE		-> remove text characters
+	15)	Scrool Up		-> scale up text
+	16)	Scrool Down		-> scale down text
+
+	17)	+			-> Speed up
+	18)	-			-> Speed down
+
+--------------------------------------------------------------------------
+
+
+Implementation
+
+-> Functional FPS Camera
+
+-> Text rendered on a screen panel
+
+-> Text Animation: Text scale ( +, - keys)
+
+-> The text is cut at the edge of the panel
+
+-> Text can be inserted dynamically
+
+-> Increase/Decrease text speed
+
+
+-> For the panel and text background I used 2 textures, and another texture 
+for the letters
