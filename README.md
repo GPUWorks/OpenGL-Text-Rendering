@@ -2,6 +2,7 @@
 
 # Preconditions
    - Microsoft Visual Studio IDE
+   - Run the project in Debug x86 mode
 
 # Short Description:
    - Dynamic text rendering using one or more textured fonts
